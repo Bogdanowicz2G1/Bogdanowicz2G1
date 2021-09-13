@@ -1,16 +1,45 @@
-### Hi there 👋
+<!DOCTYPE html>
+      <html lang="pl-PL">
+      <html>
+             <head>
+                   <meta charset="utf-8">
+                 <title>Kacper</title>
+          </head>
+          <body>
+Kacper Bogdanowicz
+<p align="right"> <font color="red" size="1" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="red" size="5" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="red" size="7" face="Arial"> Kacper </font> </p> <br>
+<h6> Bogdanowicz </h6><br>
+<h5> Bogdanowicz </h5><br>
+<h4> Bogdanowicz </h4><br>
+<h3> Bogdanowciz </h3><br>
+<h2> Bogdanowicz </h2><br>
+<h1> Bogdanowicz </h1><br>
+<p align="right"> <font color="red" size="1" face="Arial"> :( </font> </p> <br>
+<p align="right"> <font color="green" size="2" face="Courier New">  :C </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Times New Roman"> ;( </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Verdana"> :'( </font> </p> <br>
+<p align="right"> <font color="red" size="5" face="Arial"> :) </font> </p> <br>
+<p align="right"> <font color="pink" size="6" face="Verdana"> :p </font> </p> <br>
+         </body>
 
-<!--
-**Bogdanowicz2G1/Bogdanowicz2G1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <b>Adres:80-240</b><i>Gdańsk Raduńska</i><strike>13/8</strike></p> <br>
+<p align="center"> <font color="red" size="6" face="Verdana"> Ulubiony aktor: Maciej Musiał </font> </p> <br>
+<p align="center"> <font color="blue" size="6" face="Arial"> Ulubiony zespół: Ansmabl</font> </p> <br>
+<p align="center"> <font color="yellow" size="6" face="Times New Roman">Data urodzenia: 24 października 2005</font> </p> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left"> <font color="purple" size="5" face="Times New Roman"><sup>H</sup><sub>2</sub><sup>SO</sup><sub>4</sub></font> </p> <br>
+
+
+<p align="left"> <font color="green" size="5" face="Verdana"><sub>x*x=x</sub><sup>2</sup></font> </p> <br>
+
+
+ 
+</html>
